@@ -16,12 +16,9 @@ Starting from 13th September, all the contributors will be provided with simple 
 
  ## Submission Guidelines
 - A google form will be shared where the code file and output file is to be submitted on a daily basis.
-- Make sure the code file and output files are in the .txt format.
 - To generate the output file, follow the below instructions in the command prompt:
   
-  **i.	For C/C++**
-
-        c++/c:
+  **i.	For C++/C**
 
         g++/gcc file.cpp -o file.exe
 
@@ -29,15 +26,11 @@ Starting from 13th September, all the contributors will be provided with simple 
 
   **ii.	For Java**
 
-        java: 
-
         javac file.java 
 
         file.class < ip.txt > op.txt
 
   **iii.	For Python**
-
-        python: 
 
         python file.py < ip.txt > op.txt
 
@@ -45,7 +38,8 @@ Starting from 13th September, all the contributors will be provided with simple 
 ## YouTube Link
 We have provided a video for your better understanding of how to submit the files.
 
-[Submission_Demo](-https://www.youtube.com/watch?v=hIoJZifM3Jc)
+[Submission_Demo](https://google.co.in){:target="_blank"}
+<!-- <a href="https://google.co.in" target="_blank">Submission Demo</a> -->
 
   
 ## Naming Convention:
