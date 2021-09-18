@@ -38,8 +38,7 @@ Starting from 13th September, all the contributors will be provided with simple 
 ## YouTube Link
 We have provided a video for your better understanding of how to submit the files.
 
-[Submission_Demo](https://google.co.in){:target="_blank"}
-<!-- <a href="https://google.co.in" target="_blank">Submission Demo</a> -->
+[Submission_Demo](https://google.co.in) (Please ctrl/cmd+click on the link, the thing you are trying doesn't work on github)
 
   
 ## Naming Convention:
