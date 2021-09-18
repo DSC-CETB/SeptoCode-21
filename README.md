@@ -45,7 +45,7 @@ Starting from 13th September, all the contributors will be provided with simple 
 ## YouTube Link
 We have provided a video for your better understanding of how to submit the files.
 
-[Submission_Demo](https://www.youtube.com/watch?v=hIoJZifM3Jc)
+[Submission_Demo](https://www.youtube.com/watch?v=hIoJZifM3Jc){:target="_blank" rel="noopener"}
 
   
 ## Naming Convention:
