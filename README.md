@@ -13,7 +13,7 @@ Starting from 21st September, all the contributors will be provided with simple 
 
 ## Steps to Follow: ✍️
 
-- The question of each day will be avalable from the start of the day.
+- The question of each day will be available from the start of the day.
 - The submission form will be open from 10:00am to 11:59pm each day.
 - Check the question of the day in the GitHub repository. (You may download the question or fork the repository)
 - Download the test cases file.
