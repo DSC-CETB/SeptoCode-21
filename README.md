@@ -39,7 +39,7 @@ Starting from 21st September, all the contributors will be provided with simple 
 
         javac file.java 
 
-        file.class < ip.txt > op.txt
+        java file < ip.txt > op.txt
 
     **iii.	For Python**
 
