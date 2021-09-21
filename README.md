@@ -27,7 +27,7 @@ Starting from 21st September, all the contributors will be provided with simple 
 - To generate the output file, follow the below instructions in the command prompt:
   - Firstly, make sure that the code and output file are in the same directory.
   - Then from the directory, open command prompt.
-  - Type the code shown below in the cmd for the language of your preference, to generate the output file to be submitted. This output should be the output of the test case provided with the problem statement.
+  - Type the code shown below in the cmd for the language of your preference, to generate the output file to be submitted. This output should be the output of the test case (input_problem statement number.txt), e.g. - input_1.txt for day 1,  provided with the problem statement.
   
     **i.	For C++/C**
 
