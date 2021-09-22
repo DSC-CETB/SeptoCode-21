@@ -13,7 +13,7 @@ Starting from 21st September, all the contributors will be provided with simple 
 
 ## Steps to Follow: ✍️
 
-- The question of each day will be avalable from the start of the day.
+- The question of each day will be available from the start of the day.
 - The submission form will be open from 10:00am to 11:59pm each day.
 - Check the question of the day in the GitHub repository. (You may download the question or fork the repository)
 - Download the test cases file.
@@ -25,9 +25,9 @@ Starting from 21st September, all the contributors will be provided with simple 
   **Google form** - [submission_link](https://forms.gle/dNxfgsequegoQkH8A)
 
 - To generate the output file, follow the below instructions in the command prompt:
-  - Firstly, make sure that the code and output file are in the same directory.
+  - Firstly, make sure that the code and input file are in the same directory.
   - Then from the directory, open command prompt.
-  - Type the code shown below in the cmd for the language of your preference.
+  - Type the code shown below in the cmd for the language of your preference, to generate the output file to be submitted. This output should be the output of the test case (input_problem statement number.txt), e.g. - input_1.txt for day 1,  provided with the problem statement.
   
     **i.	For C++/C**
 
@@ -39,7 +39,7 @@ Starting from 21st September, all the contributors will be provided with simple 
 
         javac file.java 
 
-        file.class < ip.txt > op.txt
+        java file < ip.txt > op.txt
 
     **iii.	For Python**
 
