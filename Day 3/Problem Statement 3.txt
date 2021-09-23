@@ -1,0 +1,18 @@
+Given that your semester results are out amd you have received the credits of each subject. Frame a program to input your credit of each subject in a line in form of a string separated by commas. And it will show all credits individually along with total credits.
+
+Input Format: 
+String: Various integers separated by commas.
+
+Output Format:
+All the integers printed line by line
+
+Constraints: 
+The length of str is less than 8*10^5
+
+Sample Input: 3,4,5,2
+
+Sample Output:    
+3
+4
+5
+2
