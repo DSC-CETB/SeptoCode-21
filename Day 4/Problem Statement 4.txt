@@ -3,7 +3,7 @@ Zumba sports club has the following grading policy:-
   - If a player scores a point less than 35, he is disqualified
  Joy is a coach at the sports club who likes to round each student's point according to these rules:-
   - If the difference between the point and the next multiple of 5 is less than 3, round point up to the next multiple of 5.
-  - If the value of point is less than 33, no rounding occurs as the result will still be a disqualifying score.
+  - If the value of point is less than equal to 33, no rounding occurs as the result will still be a disqualifying score.
 
  Examples:-
  - point = 84 round to 85(85 - 84 is less than 3)
