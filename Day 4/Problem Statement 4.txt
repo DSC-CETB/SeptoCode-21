@@ -19,7 +19,7 @@ Zumba sports club has the following grading policy:-
  - int[n]: the points after rounding as appropriate
  
  Constraints:-
- - 1<=n<=60
+ - 1<=n<=100
  - 0<=points[i]<=100
  
  Sample Input:-
