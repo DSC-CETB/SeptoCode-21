@@ -39,4 +39,4 @@ Zumba sports club has the following grading policy:-
  1) Player 1 received a 73, and the next multiple of 5 from 73 is 75. Since 75-73<3, the players's point is rounded to 75
  2) Player 2 received a 67, and the next multiple of 5 from 67 is 70. Since 70-67=3, the point will not be modified and the player's final point is 67.
  3) Player 3 received a 38, and the next multiple of 5 from 38 is 40. Since 40-38<3, the player's point will be rounded to 40.
- 4) Player 4 received a point below 33, so the point will not be modified and the player's final point is 33.
+ 4) Player 4 received a point less than equal to 33, so the point will not be modified and the player's final point is 33.
