@@ -7,7 +7,7 @@ Zumba sports club has the following grading policy:-
 
  Examples:-
  - point = 84 round to 85(85 - 84 is less than 3)
- - point = 29 do not round(point is less than 35)
+ - point = 29 do not round(point is less than 33)
  - point = 57 do not round(60 - 57 is 3 or higher)
  Given the initial value of point for each of Joy's n players, write code to automate the rounding process.
  
