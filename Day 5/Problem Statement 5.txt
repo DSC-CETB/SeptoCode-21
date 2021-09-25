@@ -16,6 +16,7 @@ int arr[]: Array of n integers
    
 Output Description:-
 int: Unique numbers for each array in each line
+In case of no unique elements, print 0
 
 
 Constraints:-
