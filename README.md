@@ -22,7 +22,7 @@ Starting from 21st September, all the contributors will be provided with simple 
  ## Submission Guidelines 📘	
 - The google form mentioned below is where the code file and output file are to be submitted on a daily basis.⏲️
 
-  **Google form** - [submission_link](https://forms.gle/dNxfgsequegoQkH8A)
+  **Google form** - [submission_link](https://forms.gle/dNxfgsequegoQkH8A) <br>
   **Sunday Ideation** - [submission_link](https://forms.gle/QqSuXrcDw6g7wToe9) 
 
 - To generate the output file, follow the below instructions in the command prompt:
