@@ -3,10 +3,12 @@ Himansh loves billiards very much. One day while playing a match , he found out 
 Input Description:-
 - First line of input consists of t, the number of test cases
 - Next t lines each consists of:
+int n: length of the string
 String: string consisting of 0 and 1
 
 Input variables:
 int t: No. of test cases
+int n: Length of the string
 String : string comprising of 0 and 1
 
 Output Description:
@@ -15,12 +17,15 @@ NO if the situation is out of danger
 
 Constraints:
 1<=t<=4
+1<=n<=50
 0<=value of each character<=1
 
 Sample Input:
 2
+6
 001001
-1000000001
+12
+100000000101
 
 Sample Output:
 NO
