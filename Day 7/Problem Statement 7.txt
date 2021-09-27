@@ -1,0 +1,27 @@
+Himansh loves billiards very much. One day while playing a match , he found out a new trick in the game. He interpreted each red balls as 0 and each white balls as 1 .He started taking a note of the positions of white and red balls in the table. If there are at least 6 balls of same color  placed one after another, then the situation is considered dangerous else its out of danger.
+
+Input Description:-
+- First line of input consists of t, the number of test cases
+- Next t lines each consists of:
+String: string consisting of 0 and 1
+
+Input variables:
+int t: No. of test cases
+String : string comprising of 0 and 1
+
+Output Description:
+YES if the situation is dangerous
+NO if the situation is out of danger
+
+Constraints:
+1<=t<=4
+0<=value of each character<=1
+
+Sample Input:
+2
+001001
+1000000001
+
+Sample Output:
+NO
+YES
