@@ -1,0 +1,22 @@
+A primary school teacher has taught the students english alphabets. He now wants to test the students. He has given his n students a task to write sentences with every alphabet occuring atleast once. He has taught the students only lowercase alphabets. Given a string without spaces findif every alphabet of english language has occured atleast once. If the student has passed the test the teacher gave them a pass mark.The sentences need not be meaningful.
+
+Input variables:
+int n: No. of students
+String : string of lowercase alphabets without any space
+
+Input Description:-
+- First line of input consists of t, the number of test cases
+- Next t lines each consists of:
+String s, which represents the sentence the students have given
+
+Output Description:-
+Print Pass if condition is satisfied otherwise Fail
+
+Sample Input:-
+2
+thequickbrownfoxjumpsoverthelazydog
+iamagoodboy
+
+Sample Output:-
+Pass
+Fail
