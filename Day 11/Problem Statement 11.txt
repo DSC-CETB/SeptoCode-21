@@ -1,4 +1,4 @@
-There are n marbles in a row. A child has to divide the marbles in halves untill he gets one marble. Find the minimum number of steps required to get the single marble. The halves can be unequal for odd numbers. After a division from odd even pair the child has to choose the even pair for futher division if the odd number is not 1.
+There are n marbles in a row. A child has to divide the marbles in halves untill he gets one marble. Find the minimum number of steps required to get the single marble.
 
 Input variables:-
 int t: no of test cases
