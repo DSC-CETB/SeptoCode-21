@@ -14,7 +14,8 @@ Given a square matrix, calculate the absolute difference between the sums of its
    Each of the next n lines describes a row, arr[i], and consists of n space-separated integers arr[i][j].
    
    Constraints:-
-   - 1<=t<=40
+   - 1<=t<=45
+   - 1 <= n <= 4
    - -100<=arr[i][j]<=100
    
    Sample Input:-
