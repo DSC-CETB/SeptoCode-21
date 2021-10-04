@@ -1,0 +1,29 @@
+There are n students in a class. They are given numbers according to their height, like if two students have same heights they are given same number. They are arranged in a pyramid manner.
+A pyramid manner is basically a sequence of numbers, with initially an increasing order, then the peak, then a decreasing order, looking like a pyramid. 
+Now, the class teacher needs to find the place where the tallest student is standing.
+
+Input Format :-
+ -> The first line consists t number of test cases
+Each of the t lines contains:
+ -> n, The number of students in the class
+ -> arr, The array of heights of students
+
+Output:
+- position of tallest student
+
+ Constraints:-
+- 1<=t,n<=10
+- 1<=each value of array<=10
+
+Sample Input:
+2
+9
+1 2 3 6 7 5 3 2 1
+9
+1 1 2 2 3 8 4 4 1
+
+Sample Output:
+5
+6
+
+
