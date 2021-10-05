@@ -1,0 +1,27 @@
+There are n students appearing an online exam. Each of them are given serial numbers starting from 1 to n. No two students can have the same serial number. Each of the students are asked to write their serial numbers on the top. One of the student copied all the answers from another student. He forgot to change his serial number and submitted his answer sheet with the other students serial number. Find the student who cheated. The teacher has recieved the answer sheets in a random manner. If no students has cheated print 0.
+
+Input Description:
+t=> test cases
+n=> number of students
+students[]=> array of students
+
+Output Description:
+print the serial no. of student who cheated
+
+Constraints:
+2<t<10^4
+3<n<10^3
+
+Example:
+
+Input:
+2
+6
+3 4 5 5 2 1
+10
+8 7 4 3 9 7 5 1 10 6
+
+Output:
+6
+2
+
