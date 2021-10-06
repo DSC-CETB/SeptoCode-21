@@ -1,0 +1,34 @@
+Mirsha is a computer science student in her final year. During a certain event, she was faced with an interesting problem.
+Given a list of numbers, all except one numbers follows a certain odd-even pattern. Basically this means, from the list, 1 number will be odd, and rest even, or vice versa. Your task is to find the index of the number which doesn't follow the pattern.
+The indexing here starts from 1.
+
+Input Format:
+t: Number of test cases
+Next t lines follow, each having
+n: length of the array
+arr: input array, with each number separated by a space
+
+Output Format:
+int: just the index of the number
+
+Constraints:
+1 <= t <= 10
+3 <= n <= 100
+1 <= arr[i] <= 1000
+
+E.g.
+Input:
+
+2
+5
+5 7 2 11 99
+4
+8 91 144 2
+
+Output:
+3
+2
+
+Explanation:
+i- In this first example, all are odd numbers except 2, hence index of 2 -> 3, is given as output
+ii - In the second example, all numbers are even except 91, hence index of 91 -> 2, is given as output.
