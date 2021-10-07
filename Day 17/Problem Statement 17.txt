@@ -1,0 +1,39 @@
+A company decided to start a lucky draw for its customers. The company gave its customers a lucky draw coupon with a serial number printed on it.
+The serial number ranges from 1 to n. The company devised a rule to decide the lucky numbers:-
+-Starting with the serial number, replace the serial number by the sum of the squares of its digits.
+-Repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1.
+-Those numbers for which this process ends in 1 are lucky.
+The customers are asked to submit their tickets at the counter and their serial numbers are checked their and lucky or unlucky is printed over their tickets based on their serial number.
+
+Input description:-
+t=> no of test cases
+n=> serial number of the customer
+
+Output Description:-
+Print lucky or unlucky based on the serial number
+
+Constraints:-
+1<=t<=100
+1<=n<=2^21-1
+
+Example:
+
+Input:
+2
+19
+2
+
+Output:
+lucky
+unlucky
+
+Explanation 1: Input 19
+ 19 => 1^2+9^2 = 82
+ 82 => 8^2+2^2 = 68
+ 68 => 6^2+8^2 = 100
+ 100 => 1^2+0^2+0^2 = 1 (hence lucky)
+
+Explanation 2: Input 2
+(Since 2 is a single digit number and cant be reduced further and is not 1 so its unlucky)                     
+
+
