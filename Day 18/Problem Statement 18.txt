@@ -25,5 +25,12 @@ Constraints:-
 [1,1]
     
 Sample Output:
-5,6
+5 6
 2
+
+
+Explanation:
+In the first case, length of array is 8
+1 2 3 4 are present, but 5 and 6 are missing, and then 7 and 8 are present. So the original missing numbers are 5 and 6.
+
+In the second case, length of array is 2, 1 is present, but 2 is missing. So missing number is 2.
