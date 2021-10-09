@@ -1,0 +1,33 @@
+Given a number of balls placed on top of each other in an order. It is kept in such a way that the number of balls goes on increasing in a column and then decreasing which resembles a mountain pattern.Jonita has been asked by her teacher to find whether the mountain has steep slope or gentle slope. Help Jonita solving out this problem.
+
+Input variables:-
+  int t=> no. of test cases
+  int n=> length of the array
+  int arr[]=>array containing no. of balls in each column
+        
+Input Description:-
+ -First line of input consists of t,the number of test cases
+ -Next each lines consist of n, length of the array
+ -Next line consists of the array containing the number of balls in each column
+            
+Output Description:-
+  Print whether the mountain formed has a steep slope or gentle slope
+
+Constraints:-
+ -> 1<=t,n<=10
+ ->1<= no. of balls in each column <=10
+                    
+Sample Input:-
+2
+8
+0 2 3 4 5 2 1 0
+9
+0 2 3 3 5 4 2 1 0
+
+Sample Output:-
+Steep
+Gentle
+
+Explanation:
+In the first case, the slope goes on increasing till the peak, and then decreases, at every point of the array. Hence it is a steep slope.
+In the second case, the slope goes on increasing, but at the 3rd element, it becomes same as the 4th element and then continues increasing, hence it's a gentle slope.
